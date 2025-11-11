@@ -1,0 +1,3 @@
+[submodule "mini-ssh"]
+	path = mini-ssh
+	url = https://github.com/orhid/hass-mini-ssh
